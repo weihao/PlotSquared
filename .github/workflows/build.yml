@@ -22,4 +22,4 @@ jobs:
         uses: actions/upload-artifact@v2.2.2
         with:
           name: jar artifact
-          path: /home/runner/work/PlotSquared/PlotSquared/Core/build/libs/*.jar
+          path: /home/runner/work/PlotSquared/PlotSquared/Bukkit/build/libs/*.jar
